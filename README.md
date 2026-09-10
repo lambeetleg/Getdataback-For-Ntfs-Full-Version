@@ -233,3 +233,6 @@ This repository serves as the official landing page for GetDataBack for NTFS. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of GetDataBack for NTFS today!**
+
+---
+**Last updated:** 2026-09-10 07:47:47 UTC
