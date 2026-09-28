@@ -235,4 +235,4 @@ This repository serves as the official landing page for GetDataBack for NTFS. Th
 **Get the most recent version of GetDataBack for NTFS today!**
 
 ---
-**Last updated:** 2026-09-28 10:25:13 UTC
+**Last updated:** 2026-09-28 18:21:47 UTC
